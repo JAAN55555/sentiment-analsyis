@@ -1,7 +1,4 @@
 flask
 pandas
-numpy
 scikit-learn
-gunicorn
-transformers
-torch
+joblib
